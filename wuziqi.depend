@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558425546 source:d:\program files\code block\my project\wuziqi\main.cpp
+	<graphics.h>
+	"windows.h"
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"stdlib.h"
+	"math.h"
+
